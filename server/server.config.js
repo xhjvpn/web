@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://freeweb.freewebvpn.workers.dev'
+const BAREURL = 'https://google.asiacdn.eu.org'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
