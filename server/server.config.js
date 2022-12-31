@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://yourdomain'
+const BAREURL = 'https://freeweb.freewebvpn.workers.dev'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
